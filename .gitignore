@@ -1,0 +1,10 @@
+# Only material to be published as a self-contained report belongs in this repo.
+# Tooling used to PRODUCE that material is not part of the published artifact.
+/scripts/
+
+# Editor / OS noise
+*.swp
+.DS_Store
+
+# Obsidian editor config (not part of the publication)
+.obsidian/

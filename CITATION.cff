@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "AlterMundi ARDC 2024 grant — final report and artifacts"
+message: "If you use these artifacts, please cite them using this metadata."
+type: dataset
+version: "1.0"
+authors:
+  - name: "AlterMundi"
+    website: "https://altermundi.net"
+abstract: >-
+  Final report, technical annexes, the ESP32 medium-coordination research line,
+  and field artifacts produced under the ARDC 2024 grant (MW-CA-RF, Event Machine,
+  Data Collection, 44Mesh). Non-code, AlterMundi-authored deliverables; third-party
+  code is linked, not bundled.
+license: CC-BY-SA-4.0
+repository-code: "https://github.com/AlterMundi/ardc-2024-report"
+date-released: "2026-06-30"
+keywords:
+  - community networks
+  - LibreMesh
+  - batman-adv
+  - 44Net
+  - mesh networking

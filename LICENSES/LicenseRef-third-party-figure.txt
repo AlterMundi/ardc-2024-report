@@ -1,0 +1,16 @@
+LicenseRef-third-party-figure
+
+Third-party material incorporated into the ARDC 2024 final report as an
+attributed figure (an illustration or piece of documentary evidence).
+
+Copyright in each such figure is retained by the rights-holder(s) named in that
+file's "Copyright" field in .reuse/dep5. The material is reproduced here solely
+for the report's documentary purpose, with attribution, and is NOT relicensed
+under the report's CC-BY-SA-4.0 terms.
+
+Reuse of these figures beyond this report may require the permission of the
+respective rights-holder. Where a figure also contains AlterMundi-authored
+elements overlaid on third-party material (for example, measurement annotations
+or a logical-topology diagram placed beside an aerial photo), those AlterMundi
+elements are separately available under CC-BY-SA-4.0; the third-party base is
+not.

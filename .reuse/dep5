@@ -1,0 +1,43 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: ardc-2024-report
+Upstream-Contact: AlterMundi <info@altermundi.net>
+Source: https://github.com/AlterMundi/ardc-2024-report
+
+Files: *
+Copyright: 2026 AlterMundi
+License: CC-BY-SA-4.0
+
+Files: report/*
+Copyright: 2026 AlterMundi
+License: CC-BY-SA-4.0
+
+Files: research/*
+Copyright: 2026 AlterMundi
+License: CC-BY-SA-4.0
+
+Files: data/*
+Copyright: 2026 AlterMundi
+License: CC-BY-4.0
+
+# --- Report figures (report/figures/out/) ------------------------------------
+# AlterMundi-authored diagrams default to CC-BY-SA-4.0 (rule below). The
+# third-party figures that follow are incorporated into the report as attributed
+# illustrations / documentary evidence and override that default with their real
+# rights-holder; see LICENSES/LicenseRef-third-party-figure.txt.
+Files: report/figures/out/*
+Copyright: 2026 AlterMundi
+License: CC-BY-SA-4.0
+
+Files: report/figures/out/fig-1.1-1-hidden-node-setup.png
+Copyright: 2026 AlterMundi (annotations and logical topology)
+ Base aerial imagery © Google
+License: LicenseRef-third-party-figure
+
+Files: report/figures/out/fig-5.1-montelibre-map.png
+Copyright: 2026 AlterMundi (MonteLibre community network, montelibre.net)
+License: CC-BY-SA-4.0
+
+Files: report/figures/out/enacom-radioaficionado-LU8HBP-2026-06-26.png
+ report/figures/out/enacom-radioaficionado-LU9HAJ-2026-06-26.png
+Copyright: ENACOM — Ente Nacional de Comunicaciones, República Argentina
+License: LicenseRef-third-party-figure
